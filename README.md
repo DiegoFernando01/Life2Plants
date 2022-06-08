@@ -1,6 +1,6 @@
 # Life2Plants
 
-<p><img align="center" src="LaceSoft_Life2Plants/src/Imagenes/logo2.png" alt="Logo Life2Plants" alt="diegofernando01" /></p>
+<p align="center"> <img src="LaceSoft_Life2Plants/src/Imagenes/logo2.png" alt="Logo Life2Plants" alt="diegofernando01" /></p>
 
 **Descripción de la idea:**
 
