@@ -1,5 +1,7 @@
 # Life2Plants
 
+<p><img align="center" src="LaceSoft_Life2Plants/src/Imagenes/logo2.png" alt="Logo Life2Plants" alt="diegofernando01" /></p>
+
 **Descripción de la idea:**
 
 Solución de software vinculada con la herramienta Arduino, para hacer un sistema de riego de plantas automatizado que se pueda manejar desde el computador e incluso desde el celular, permitiendo ajustar las horas en las que deseas que el sistema de riego funcione, ahorrándole trabajo y tiempo a quien la use para regar sus plantas.
